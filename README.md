@@ -44,42 +44,46 @@ const taqi = {
 
 ## 🚀 Projects
 
-### 🔵 Kōl — Multi-AI Group Chat
-> What if GPT, Claude, Gemini & Llama could all talk to each other — and to you — in one room?
+> 🟠 **[Salvo](https://github.com/m-taqii/salvo)** — *Cold outreach that doesn't sound cold.*
+> Upload leads. Inject context. It writes, personalizes, and fires. You just close.
+> `TypeScript` `LangGraph` `MongoDB`
 
-Built a Discord-style platform where multiple AI models coexist as chat members, see each other's responses, and reply organically in real time.
+> 🔴 **[Crawlix](https://github.com/m-taqii/crawlix)** — *Your app's worst enemy. On purpose.*
+> Spawns AI personas that actually use your product — and find everything wrong with it.
+> `TypeScript` `Playwright` `LangGraph` `Groq`
+> 
+> 🔵 **[Kōl](https://github.com/m-taqii/kol)** — *What if your AI models could talk to each other?*
+> Multi-model group chat. GPT, Claude, Gemini & Llama in one room. Real time.
+> `Next.js` `Socket.io` `LangGraph` `Groq` `MongoDB`
 
-`Next.js` `Express` `Socket.io` `LangGraph` `MongoDB` `Groq` `Gemini`
+> 🟢 **[Locus](https://github.com/m-taqii/locus)** — *Inventory. Tracked. Done.*
+> Clean full-stack dashboard for product and stock management. No fluff.
+> `MongoDB` `Next.js` `REST APIs`
 
----
-
-### 🟢 Locus — Inventory Management System
-> Full-stack app — product tracking, stock management, clean dashboard UI.
-
-`MongoDB` `Next.js` `REST APIs`
-
----
-
-### 🟣 iamtaqi.site — AI-Powered Portfolio
-> My portfolio has a RAG-based AI assistant that answers questions about my work and captures leads. Actually live.
-
-`Next.js` `LangChain` `Vercel` `RAG`
+> 🟣 **[iamtaqi.site](https://iamtaqi.site)** — *A portfolio that talks back.*
+> RAG-based AI assistant answers questions about my work. Actually deployed.
+> `Next.js` `LangChain` `RAG` `Vercel`
 
 ---
 
 ## 🛠️ Tech Badges
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🛠️ Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
