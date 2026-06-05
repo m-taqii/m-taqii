@@ -46,23 +46,23 @@ const taqi = {
 
 > 🟠 **[Salvo](https://github.com/m-taqii/salvo)** — *Cold outreach that doesn't sound cold.*
 > Upload leads. Inject context. It writes, personalizes, and fires. You just close.
-> `TypeScript` `LangGraph` `MongoDB`
+> `TypeScript` `Openai` `MongoDB` `Express`
 
 > 🔴 **[Crawlix](https://github.com/m-taqii/crawlix)** — *Your app's worst enemy. On purpose.*
 > Spawns AI personas that actually use your product — and find everything wrong with it.
-> `TypeScript` `Playwright` `LangGraph` `Groq`
+> `TypeScript` `Playwright` `Openai` `Anthropic`
 > 
 > 🔵 **[Kōl](https://github.com/m-taqii/kol)** — *What if your AI models could talk to each other?*
 > Multi-model group chat. GPT, Claude, Gemini & Llama in one room. Real time.
-> `Next.js` `Socket.io` `LangGraph` `Groq` `MongoDB`
+> `Next.js` `Socket.io` `LangGraph` `Openai` `MongoDB`
 
 > 🟢 **[Locus](https://github.com/m-taqii/locus)** — *Inventory. Tracked. Done.*
 > Clean full-stack dashboard for product and stock management. No fluff.
 > `MongoDB` `Next.js` `REST APIs`
 
 > 🟣 **[iamtaqi.site](https://iamtaqi.site)** — *A portfolio that talks back.*
-> RAG-based AI assistant answers questions about my work. Actually deployed.
-> `Next.js` `LangChain` `RAG` `Vercel`
+> RAG-based AI assistant answers questions about my work. Actually deployed on my own site.
+> `Next.js` `LangGraph` `RAG` `Vercel`
 
 ---
 
